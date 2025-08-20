@@ -7,7 +7,7 @@
 
 - 📧 How to reach me **areebasaghir4@gmail.com**
 - ☎ **+(92) 3039444837**
-📄 Know about my experiences [CV](./AreebaSaghir (1).pdf) 
+-📄 Know about my experiences [CV](Areeba Saghir(1).pdf) 
 - ⚡ Fun fact **I keep going and celebrating for others until it's my turn...*
 - ## 🤝 Connect
 <p align="left">
