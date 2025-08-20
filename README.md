@@ -3,7 +3,7 @@
 <h2 align="center">Let's dive into my world of code, creativity, and problem-solving!</h2>
 
 
-- 👩‍💻 All of my projects are available at [https://alishbasiddique.vercel.app/](https://alishbasiddique.vercel.app/)
+- 👩‍💻 All of my projects are available at [ https://areeba1718.github.io/Portfolio-Web/]( https://areeba1718.github.io/Portfolio-Web/)
 
 - 📧 How to reach me **areebasaghir4@gmail.com**
 - ☎ **+(92) 3039444837**
