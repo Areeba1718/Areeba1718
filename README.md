@@ -10,7 +10,8 @@
 - 📄 Know about my experiences [CV](./Areeba_Saghir_CV.pdf)
 
 - ⚡ Fun fact **I keep going and celebrating for others until it's my turn...*
-- ## 🤝 Connect
+
+ ## 🤝 Connect
 <p align="left">
 Feel free to reach out!
 <br><br>
